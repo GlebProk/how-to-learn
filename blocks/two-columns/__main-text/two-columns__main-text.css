@@ -1,0 +1,7 @@
+.two-columns__main-text {
+  max-width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
